@@ -5,6 +5,12 @@ User Roles Admin, Teacher, Student.
 
 # Installation 
 
+Create a Database Table in phpMyAdmin
+
+Extract the LaraELearn Source Code that has been downloaded to a folder anywhere.
+
+Open Code Editor → Terminal.
+
 Enter these commands one by one (without the $ sign),
 
 $ cp .env.example .env
